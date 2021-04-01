@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
-- :evergreen_tree: Currently working on recommendation engine implementing Graph Neural Network.
+- :evergreen_tree: Currently working on recommendation engine implementing Node2Vec Algorithm.
 
 - :full_moon_with_face: Strongly embrace CHANGE and UNCERTAINITY.
 
