@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+/github/followers/:user?label=Follow  
+
 
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
