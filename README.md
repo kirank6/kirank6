@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
 - :evergreen_tree: Currently working on recommendation engine implementing Node2Vec Algorithm.
