@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/github/followers/:kirank6/kirank6?label=Follow  
-
-
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
 - :evergreen_tree: Currently working on recommendation engine implementing Node2Vec Algorithm.
