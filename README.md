@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/PyTorch-Run_in_Colab-EE4C2C?logo=PyTorch 
-
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
 - :evergreen_tree: Currently working on recommendation engine implementing Node2Vec Algorithm.
