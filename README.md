@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/static/v1?label=<LABEL>&message= "Welcome"&color= "Purple"
+https://img.shields.io/badge/Github-View on Github-1ED760?logo=github
 
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
