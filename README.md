@@ -25,9 +25,3 @@ Here are some ideas to get you started:
    - :wave: [LinkedIn](https://www.linkedin.com/in/kirankh/)
    - :hourglass_flowing_sand: [Kaggle](https://www.kaggle.com/khanalkiran/)
 
-
-
-[![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=kirank6&count_private=true&show_icons=true&theme=radical&hide_rank=false)] (https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirank6)](https://github.com/anuraghazra/github-readme-stats)
