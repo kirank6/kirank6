@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :rainbow: Contantly learning programming, machine learning and problem solving skills.
 
-- :evergreen_tree: Currently working on prediction of energy consumption using ML.
+- :evergreen_tree: Currently working on machine learning operations with mlflow on databricks.
 
 - :full_moon_with_face: Strongly embrace CHANGE and UNCERTAINITY.
 
